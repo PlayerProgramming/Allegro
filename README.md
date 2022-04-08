@@ -36,6 +36,10 @@ All games come with 3 timer options: 30 seconds, 1 minute,or 2 minutes.
 2. Sign in with a Google account
 3. Enjoy!
 
+## Example to save your time!
+
+
+
 OR IF YOU WISH TO USE ALLEGRO LOCALLY:
 
 1. Clone/Download the Allegro project repository
