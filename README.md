@@ -31,20 +31,22 @@ All games come with 3 timer options: 30 seconds, 1 minute,or 2 minutes.
 
 ## How to use Allegro
 
+### 1. Play online ( The host website for the game ended and therefore, this method will not work )
 
 1. Open a browser and head to https://playallegro.com
 2. Sign in with a Google account
 3. Enjoy!
 
-## Example to save your time!
-
-
-
-OR IF YOU WISH TO USE ALLEGRO LOCALLY:
+### 2. OR IF YOU WISH TO USE ALLEGRO LOCALLY:
 
 1. Clone/Download the Allegro project repository
 2. Open menu.html
 3. Enjoy!
+
+
+## Example to save your time!
+
+
 
 
 ## About Us
