@@ -46,6 +46,7 @@ All games come with 3 timer options: 30 seconds, 1 minute,or 2 minutes.
 
 ## Example to save your time!
 
+![allegro](https://user-images.githubusercontent.com/94532638/162600012-822a3194-8376-4844-910f-ec6ece43a43e.gif)
 
 
 
